@@ -28,7 +28,9 @@ Interview notes are organized by company, role, or topic when possible. Each sec
 
 - [Experience + Questions](Experience%20+%20Questions/)
   - [HPE](Experience%20+%20Questions/HPE/)
-- [Readings](Readings/)
+- [References + Readings](References%20+%20Readings/)
+
+The references mentioned here are not arbitrary. These are resources, questions, and study materials that I have used at least once while preparing or studying.
 
 ## Contributing
 
