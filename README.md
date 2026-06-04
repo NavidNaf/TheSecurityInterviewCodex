@@ -27,8 +27,15 @@ Interview notes are organized by company, role, or topic when possible. Each sec
 ## Contents
 
 - [Experience + Questions](Experience%20+%20Questions/)
-  - [HPE](Experience%20+%20Questions/HPE/)
+  - [(BD) bKash](Experience%20+%20Questions/(BD)%20bKash/)
+  - [(BD+US+UK+VN) Optimizely](Experience%20+%20Questions/(BD+US+UK+VN)%20Optimizely/)
+  - [(US) HPE](Experience%20+%20Questions/(US)%20HPE/)
+  - [Miscellaneous Questions](Experience%20+%20Questions/miscQuestions.md)
+  - [Miscellaneous Answers](Experience%20+%20Questions/miscAnswers.md)
 - [References + Readings](References%20+%20Readings/)
+  - [Miscellaneous GitHub Repositories](References%20+%20Readings/miscGitRepos.md)
+  - [Salary Negotiation Resources](References%20+%20Readings/salaryNegotiation.md)
+  - [Videos](References%20+%20Readings/videos.md)
 
 The references mentioned here are not arbitrary. These are resources, questions, and study materials that I have used at least once while preparing or studying.
 
