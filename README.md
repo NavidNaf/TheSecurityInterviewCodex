@@ -1,3 +1,5 @@
+![The Security Interview Codex](img.png)
+
 # The Security Interview Codex
 
 The Security Interview Codex is a repository for collecting notes from security job interviews. It is meant to be a practical guide for security engineering, security research, and related technical interview preparation.
