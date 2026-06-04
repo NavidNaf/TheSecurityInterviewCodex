@@ -24,11 +24,9 @@ Interview notes are organized by company, role, or topic when possible. Each sec
 
 ## Contents
 
-- [Experience + Questions](Experience%20+%20Questions/) - Interview experiences, company-specific notes, questions, answers, and sample code.
-- [HPE Interview Notes](Experience%20+%20Questions/HPE/2025HPE.md) - HPE security engineering interview details and questions.
-- [HPE Answers](Experience%20+%20Questions/HPE/ANSWERS.md) - Short answers for the HPE interview questions.
-- [Contribution Guide](CONTRIBUTION.md) - Guidelines for adding new notes or questions.
-- [License](LICENSE) - MIT license for this repository.
+- [Experience + Questions](Experience%20+%20Questions/)
+  - [HPE](Experience%20+%20Questions/HPE/)
+- [Readings](Readings/)
 
 ## Contributing
 
