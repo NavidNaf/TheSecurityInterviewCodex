@@ -5,10 +5,9 @@
 | Position/Role | Security Enginner II, Application Secuirity, Security Enginnering |
 | Organization | Optimizely Ltd. |
 | Term | Full-Time Employment |
-Role Description | Focuses on applying technical expertise in offensive security and penetration testing. |
-| Knowledge Requirement | Penetration testing, web and mobile application security, vulnerability assessment, exploit validation, security compliance, and strong offensive security fundamentals. |
 | Role Description | Tested for an application security engineer role focused mainly on application security, with some offensive security testing knowledge. The role works with Optimizely products to improve and maintain the overall application security posture. |
 | Knowledge Requirement | Application security, secure code review, web application testing, vulnerability assessment, threat modeling, OWASP Top 10, SDLC security, basic offensive security testing, and remediation planning. |
+| Experience Shared By | [Navid Fazle Rabbi](https://navidnaf.com/) |
 
 
 ## Details

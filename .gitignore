@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Common caches and temporary files
+.cache/
+.tmp/
+tmp/
+*.tmp
+*.temp
+*.log
+
+# IDE/editor local files
+.idea/
+.vscode/

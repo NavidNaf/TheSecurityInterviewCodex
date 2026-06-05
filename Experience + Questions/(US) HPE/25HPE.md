@@ -8,6 +8,7 @@
 | Role Description | Focuses on applying technical expertise to protect networking products and support security engineering work in Sunnyvale, CA. |
 | Knowledge Requirement | Networking product security, secure development lifecycle, vulnerability/risk remediation, cybersecurity standards, and strong technical security fundamentals. |
 | Experience | My overall experience was mixed. It felt like the interviewers were mostly following a fixed question set instead of making it a natural conversation. The interview was mainly for Juniper Labs, and the questions were pretty common, following a normal structure. One thing I didn’t like was that the email made it sound like this would be a regular showcasing interview, where I would present my skills and explain a project, problem, or piece of code. But during the actual interview, they added an extended section after the presentation where they asked several security engineering questions, including security code review and some architecture planning. That part was not mentioned in any of the emails they sent. |
+| Experience Shared By | [Navid Fazle Rabbi](https://navidnaf.com/) |
 
 ## Detailed Interview
 Before the interview, I had to make a skills portfolio with a presentation on one of these topics: research, a project, an interesting piece of code, or a CTF problem.
