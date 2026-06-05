@@ -24,6 +24,8 @@ Keep the writing clear, casual, and practical. The goal is to make the notes eas
 
 ## Suggested Format
 
+If you want to contribute an interview experience, follow the template in [ExperienceDemo.md](Experience%20+%20Questions/ExperienceDemo.md). It shows the basic structure used by the company-based interview notes in this repository.
+
 For interview experiences, try to include:
 
 - Company or role
@@ -31,4 +33,3 @@ For interview experiences, try to include:
 - Topics covered
 - Questions asked
 - Short answers or notes, if useful
-
